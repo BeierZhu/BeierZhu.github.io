@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a PhD student at [MReaL Lab](https://mreallab.github.io), [Nanyang Technological University](https://www.ntu.edu.sg) advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). Prior to the PhD, I received B.E. and M.S. degree from [Tsinghua University](https://www.tsinghua.edu.cn) in 2016 and 2019.
+I'm currently a PhD student at [MReaL Lab](https://mreallab.github.io), [Nanyang Technological University](https://www.ntu.edu.sg) advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). Prior to the PhD, I received B.E. and M.E. degree from [Tsinghua University](https://www.tsinghua.edu.cn) in 2016 and 2019.
 
 I focus on learning unbiased models against the distribution shifts in computer vision, vision-language, long-tailed classification, etc.
 
