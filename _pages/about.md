@@ -21,8 +21,8 @@ Experience
 Selected Publications
 ======
 (\* Denotes Equal Contribution.)
-1. **Beier Zhu**, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang. Debiased Fine-Tuning for Vision-language Models by Prompt Regularization. AAAI 2023
-2. Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, **Beier Zhu**, Eng Siong Chng. Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning. AAAI 2023
+1. **Beier Zhu**, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang. Debiased Fine-Tuning for Vision-language Models by Prompt Regularization. AAAI 2023 **(Oral)**
+2. Chen Chen, Yuchen Hu, Qiang Zhang, Heqing Zou, **Beier Zhu**, Eng Siong Chng. Leveraging Modality-specific Representations for Audio-visual Speech Recognition via Reinforcement Learning. AAAI 2023 **(Oral)**
 3. **Beier Zhu**, Yulei Niu, Yucheng Han, Yue Wu, Hanwang Zhang, Prompt-aligned Gradient for Prompt Tuning. CoRR abs/2205.14865 (2022)
 4. **Beier Zhu**, Yulei Niu, Xian-Sheng Hua, Hanwang Zhang, Cross-Domain Empirical Risk Minimization for Unbiased Long-Tailed Classification. AAAI 2022 **(Oral)**
 5. \*Chunze Lin, \***Beier Zhu**, Quan Wang, Renjie Liao, Chen Qian, Jiwen Lu, Jie Zhou. Structure-Coherent Deep Feature Learning for Robust Face Alignment. IEEE Trans. Image Process.
