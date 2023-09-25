@@ -31,7 +31,7 @@ Experiences
 
 Publications
 ======
-(\* denotes equal contribution. \^ denotes corresponding author)
+(\* denotes equal contribution. ^ denotes corresponding author)
 
 * Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Foundation Class Bias.  
   **Beier Zhu**, Kaihua Tang, Qianru Sun, Hanwang Zhang  
@@ -64,12 +64,12 @@ Publications
   [paper](https://arxiv.org/abs/2006.11697) [code](https://github.com/BeierZhu/Sturcture-Coherency-Face-Alignment)
 
 * Fault Location for Radial Distribution Network via Topology and Reclosure-Generating Traveling Waves.  
-  Shenxing Shi, \^**Beier Zhu**, Aoyu Lei, Xinzhou Dong.  
+  Shenxing Shi, ^**Beier Zhu**, Aoyu Lei, Xinzhou Dong.  
   IEEE Transactions on Smart Grid. TSG 2019.  
   [paper](https://ieeexplore.ieee.org/document/8664125)
 
 * Fault Classification for Transmission Lines Based on Group Sparse Representation.  
-  Shenxing Shi, \^**Beier Zhu**, Sohrab Mirsaeidi, Xinzhou Dong.  
+  Shenxing Shi, ^**Beier Zhu**, Sohrab Mirsaeidi, Xinzhou Dong.  
   IEEE Transactions on Smart Grid. TSG 2018.  
   [paper](https://ieeexplore.ieee.org/document/8445640)
   
