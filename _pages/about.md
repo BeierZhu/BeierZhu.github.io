@@ -33,7 +33,7 @@ Publications
 ======
 (\* denotes equal contribution. ^ denotes corresponding author)
 
-* Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Foundation Class Bias.  
+* Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models.  
   **Beier Zhu**, Kaihua Tang, Qianru Sun, Hanwang Zhang  
   Main Track, Conference on Neural Information Processing Systems. NeurIPS 2023.  
   [paper](https://arxiv.org/abs/2205.14865) [code](https://github.com/BeierZhu/GLA)  
